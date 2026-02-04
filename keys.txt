@@ -1,0 +1,71 @@
+leader = windows_key
+KP = keypad
+
+KEYPAD SHORTCUTS:
+
+<leader> <KP_1> = Superfighters
+<leader> <KP_2> = LunarClient
+<leader> <KP_3> = Krita
+<leader> <KP_4> = phonecam
+<leader> <KP_5> = kdenlive
+<leader> <KP_6> = vscode
+<leader> <KP_7> = audacity
+
+LEADER ONLY SHORTCUTS:
+
+<leader> <T> = Terminal 
+<leader> <O> = OBS 
+<leader> <E> = Thunar 
+<leader> <F> = Firefox 
+<leader> <N> = neovim 
+<leader> <G> = Gmail 
+<leader> <Y> = Youtube music
+<leader> <K> = KeyBoard Settings  
+<leader> <R> = App Finder  
+BRIGHTNESS:
+<leader> <up> = brightness up
+<leader> <down> = brightness down
+
+LEADER + SHIFT:
+
+<leader> <shift> <Y> = Youtube 
+<leader> <shift> <C> = Chatgpt
+<leader> <shift> <G> = Google Calendar
+<leader> <shift> <W> = Whatsapp
+<leader> <shift> <T> = Translator
+<leader> <shift> <M> = MonkeyType
+
+OTHER SHORTCUTS:
+
+<leader> <shift> <KP_1> = purple guy video (fullscreen)
+
+Volume control:
+
+<leader> <Lower Volume> = Change output to headphones
+<leader> <Raise Volume> = Change output to speakers
+
+Display:
+
+<Alt> <H/J/K/L> = Control window position 1/2
+<Alt> <shift> <H/J/K/L> = Control window position on 1/4
+<Alt> <1> = Window mode/fullscreen
+<Alt> <2> = Minimize window
+<leader> <1> = Swap to workspace 1
+<leader> <2> = Swap to workspace 2 (and so on)
+
+<ctrl> <Alt> <1> = Swap window to workspace 1
+<ctrl> <Alt> <2> = Swap window to workspace 2
+<ctrl> <Alt> <3> = Swap window to workspace 3 (and so on)
+
+
+Screenshoots:
+
+<ctrl> <Alt> <X> = Screenshoot windowed (No popup, just copy) 
+<shift> <KP/> = Screenshoot windowed (Popup, no copy) 
+<shift> <KP*> = Screenshoot the application (Popup, no copy) 
+
+
+FIREFOX:
+
+<alt> <Q> = Separate tabs
+<alt> <R> = Fuse tabs
