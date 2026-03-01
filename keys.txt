@@ -10,6 +10,7 @@ KEYPAD SHORTCUTS:
 <leader> <KP_5> = kdenlive
 <leader> <KP_6> = vscode
 <leader> <KP_7> = audacity
+<leader> <KP_8> = kicad
 
 LEADER ONLY SHORTCUTS:
 
@@ -34,12 +35,19 @@ LEADER + SHIFT:
 <leader> <shift> <W> = Whatsapp
 <leader> <shift> <T> = Translator
 <leader> <shift> <M> = MonkeyType
+<leader> <shift> <D> = Dictionary
+<leader> <shift> <P> = Reloads the xfdesktop
 
 OTHER SHORTCUTS:
 
-<leader> <shift> <KP_1> = purple guy video (fullscreen)
+<leader> <shift> <KP_1> = purple guy video
+<leader> <shift> <KP_2> = windowkill game
+<leader> <shift> <KP_3> = fnaf
+<leader> <shift> <KP_4> = balatro
+<leader> <shift> <KP_4> = worldbox
 
 Volume control:
+
 
 <leader> <Lower Volume> = Change output to headphones
 <leader> <Raise Volume> = Change output to speakers
@@ -68,4 +76,4 @@ Screenshoots:
 FIREFOX:
 
 <alt> <Q> = Separate tabs
-<alt> <R> = Fuse tabs
+<
