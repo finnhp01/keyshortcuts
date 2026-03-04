@@ -23,6 +23,8 @@ LEADER ONLY SHORTCUTS:
 <leader> <Y> = Youtube music
 <leader> <K> = KeyBoard Settings  
 <leader> <R> = App Finder  
+<leader> <D> = Discord  
+
 BRIGHTNESS:
 <leader> <up> = brightness up
 <leader> <down> = brightness down
@@ -37,6 +39,7 @@ LEADER + SHIFT:
 <leader> <shift> <M> = MonkeyType
 <leader> <shift> <D> = Dictionary
 <leader> <shift> <P> = Reloads the xfdesktop
+<leader> <shift> <R> = Input remmaper
 
 OTHER SHORTCUTS:
 
@@ -76,4 +79,4 @@ Screenshoots:
 FIREFOX:
 
 <alt> <Q> = Separate tabs
-<
+<alt> <R> = Fuse tabs
